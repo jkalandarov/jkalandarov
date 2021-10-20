@@ -22,3 +22,11 @@ I am 32 years young a hoping-to-be-backend-engineer from Uzbekistan. In addition
 
 <strong>Project I've contributed to:</strong>
 - <a href="https://github.com/jkalandarov/SmartWebsite">www.smartinvest.uz</a> - A catalog website for a textile company. Contribution to backend only.
+
+
+My contacts:
+- Email: jkalandarov@gmail.com
+- Mob: +998 99 961 9675
+- Telegram: @jkalandarov
+
+Looking forward to meeting you!
