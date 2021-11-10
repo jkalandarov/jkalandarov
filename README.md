@@ -2,18 +2,20 @@
 
 Hello folks!
 
-I am 32 years young a hoping-to-be-backend-engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
+I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
 
 <strong>I'm comfortable working with:</strong>
-- NodeJs (with REST APIs)
+- NodeJs (with REST APIs) 
+- Express (MVC)
 - MySQL and MongoDB
 
 <strong>I want to learn:</strong>
-- Caching
-- Socket.io
+- Creating real time apps
 - Testing
 - Design Patterns
 - DevOps: Docker, Kubernetes, AWS
+- Security issues
+- Creating cross platform apps
 
 <strong>Projects I made:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
@@ -21,8 +23,9 @@ I am 32 years young a hoping-to-be-backend-engineer from Uzbekistan. In addition
 - <a href="https://github.com/jkalandarov/BlackJackGame">Black Jack Game</a> - A Vanilla Javascript game
 
 <strong>Project I've contributed to:</strong>
-- <a href="https://github.com/jkalandarov/SmartWebsite">www.smartinvest.uz</a> - A catalog website for a textile company. Contribution to backend only.
+- <a href="https://github.com/jkalandarov/SmartWebsite">www.smartinvest.uz</a> - A catalog website for a textile company. Developed backend.
 
+If you want to talk about programming, or offer jobs in your projects you can contact me.
 
 My contacts:
 - Email: jkalandarov@gmail.com
