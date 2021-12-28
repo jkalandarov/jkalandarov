@@ -24,7 +24,7 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - <a href="https://github.com/jkalandarov/BlackJackGame">Black Jack Game</a> - A Vanilla Javascript game
 
 <strong>Project I've contributed to:</strong>
-- <a href="https://github.com/jkalandarov/SmartWebsite">www.smartinvest.uz</a> - A catalog website for a textile company. Developed backend.
+- <a href="https://smartinvest.uz">www.smartinvest.uz</a> - A catalog website for a textile company. Developed backend.
 
 If you want to talk about programming, or offer jobs in your projects you can contact me.
 
