@@ -18,7 +18,7 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - Creating cross platform apps
 - Artificial Intelligence
 
-<strong>I want to learn:</strong>
+<strong>Currently learning:</strong>
 - Testing in Javascript
 
 <strong>Projects I made:</strong>
