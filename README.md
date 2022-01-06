@@ -6,17 +6,20 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs (with REST APIs) 
-- Express (MVC)
-- MySQL and MongoDB
+- Express (MVC pattern)
+- MySQL with knex.js and Objection.js
+- JWT
 
 <strong>I want to learn:</strong>
 - Creating real time apps
 - Testing
 - Design Patterns
 - DevOps: Docker, Kubernetes, AWS
-- Security issues
 - Creating cross platform apps
 - Artificial Intelligence
+
+<strong>I want to learn:</strong>
+- Testing in Javascript
 
 <strong>Projects I made:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
