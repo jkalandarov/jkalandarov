@@ -18,8 +18,13 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - Creating cross platform apps
 - Artificial Intelligence
 
-<strong>Currently learning:</strong>
+<strong>Currently learning and practicing:</strong>
 - Testing in Javascript
+- Typescript
+- Data Structures and Algorithms
+
+<strong>Currently reading:</strong>
+- Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
 
 <strong>Projects I made:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
