@@ -10,6 +10,13 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - MySQL with knex.js and Objection.js
 - JWT
 
+<strong>I am familiar with:</strong>
+- HTML
+- CSS
+- jQuery
+- EJS
+- React.js
+
 <strong>I want to learn:</strong>
 - Creating real time apps
 - Testing
