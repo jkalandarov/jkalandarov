@@ -9,12 +9,13 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - Express (MVC pattern)
 - MySQL with knex.js and Objection.js
 - JWT
+- Git and GitHub
 
 <strong>I am familiar with:</strong>
 - HTML
 - CSS
 - jQuery
-- EJS
+- EJS and Handlebars
 - React.js
 
 <strong>I want to learn:</strong>
