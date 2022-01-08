@@ -30,6 +30,7 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - Testing in Javascript
 - Typescript
 - Data Structures and Algorithms
+- CI & CD with Jenkins
 
 <strong>Currently reading:</strong>
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
