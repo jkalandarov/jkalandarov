@@ -8,8 +8,9 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 - NodeJs (with REST APIs) 
 - Express (MVC pattern)
 - MySQL with knex.js and Objection.js
-- JWT
-- Git and GitHub
+- WDIO, Selenium, Mocha, Jasmine, Jest
+- JWT, Passport.js
+- Git, GitHub, GitLab
 
 <strong>I am familiar with:</strong>
 - HTML
@@ -20,8 +21,6 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 
 <strong>I want to learn:</strong>
 - Creating real time apps
-- Testing
-- Design Patterns
 - DevOps: Docker, Kubernetes, AWS
 - Creating cross platform apps
 - Artificial Intelligence
@@ -29,11 +28,11 @@ I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In additio
 <strong>Currently learning and practicing:</strong>
 - Testing in Javascript
 - Typescript
-- Data Structures and Algorithms
-- CI & CD with Jenkins
+- CI & CD
 
-<strong>Currently reading:</strong>
+<strong>Currently reading/learning:</strong>
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
+- JavaScript: Test Driven Development (ES6)
 
 <strong>Projects I made:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
