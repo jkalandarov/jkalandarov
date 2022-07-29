@@ -2,13 +2,13 @@
 
 Hello folks!
 
-I am 32 years young a hoping-to-be-backend-developer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
+I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs (with REST APIs) 
 - Express (MVC pattern)
 - MySQL with knex.js and Objection.js
-- WDIO, Selenium, Mocha, Jasmine, Jest
+- WDIO, Selenium, Mocha, Jasmine, Jest, Playwright
 - JWT, Passport.js
 - Git, GitHub, GitLab
 
