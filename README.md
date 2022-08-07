@@ -5,7 +5,7 @@ Hello folks!
 I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
 
 <strong>I'm comfortable working with:</strong>
-- NodeJs (with REST APIs) 
+- NodeJs
 - Express (MVC pattern)
 - MySQL with knex.js and Objection.js
 - WDIO, Selenium, Mocha, Jasmine, Jest, Playwright
@@ -28,7 +28,7 @@ I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. 
 <strong>Currently learning and practicing:</strong>
 - Testing in Javascript
 - Typescript
-- CI & CD
+- CI/CD, AWS
 
 <strong>Currently reading/learning:</strong>
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
