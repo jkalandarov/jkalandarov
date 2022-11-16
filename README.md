@@ -1,8 +1,8 @@
 # Jasurbek Kalandarov's long journey
 
-Hello folks!
+Greetings visitor!
 
-I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
+I am 33 years young a Software Test Automation Engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
@@ -11,22 +11,20 @@ I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. 
 - WDIO, Selenium, Mocha, Jasmine, Jest, Playwright
 - JWT, Passport.js
 - Git, GitHub, GitLab
+- HTML, CSS, jQuery, EJS
+- TypeScript
 
 <strong>I am familiar with:</strong>
-- HTML
-- CSS
-- jQuery
-- EJS and Handlebars
 - React.js
 
 <strong>I want to learn:</strong>
 - Creating real time apps
-- DevOps: Docker, Kubernetes, AWS
+- DevOps: Docker, Kubernetes, AWS || Azure
 - Creating cross platform apps
 - Artificial Intelligence
 
 <strong>Currently learning and practicing:</strong>
-- Testing in Javascript
+- React.js
 - Typescript
 - CI/CD, AWS
 
@@ -34,7 +32,7 @@ I am 32 years young a Junior Software Test Automation Engineer from Uzbekistan. 
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
 - JavaScript: Test Driven Development (ES6)
 
-<strong>Projects I made:</strong>
+<strong>My personal projects:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
 - <a href="https://github.com/jkalandarov/MovieSearchApp">Movie Search App</a> - Almost a clone of The Movie Database. New features coming soon...
 - <a href="https://github.com/jkalandarov/BlackJackGame">Black Jack Game</a> - A Vanilla Javascript game
