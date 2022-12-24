@@ -14,23 +14,20 @@ I am 33 years young a Software Test Automation Engineer from Uzbekistan. In addi
 - HTML, CSS, jQuery, EJS
 - TypeScript
 
-<strong>I am familiar with:</strong>
+<strong>Familiar with:</strong>
 - React.js
 
-<strong>I want to learn:</strong>
-- Creating real time apps
-- DevOps: Docker, Kubernetes, AWS || Azure
-- Creating cross platform apps
+<strong>Enthusiastic about:</strong>
+- Cloud technologies
+- Mobile Apps
 - Artificial Intelligence
 
 <strong>Currently learning and practicing:</strong>
 - React.js
-- Typescript
 - CI/CD, AWS
 
 <strong>Currently reading/learning:</strong>
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
-- JavaScript: Test Driven Development (ES6)
 
 <strong>My personal projects:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
