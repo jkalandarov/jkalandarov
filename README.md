@@ -32,9 +32,10 @@ I am 33 years young a Software Test Automation Engineer from Uzbekistan. In addi
 
 <strong>My personal projects:</strong>
 - <a href="https://github.com/jkalandarov/WeatherApp">Weather App</a> - An App to know about a weather in a specific city. It also shows weather data in top 10 most searched cities.
-- - <a href="https://github.com/jkalandarov/microservices-ticket-app">Ticket App</a> - A ticket sales app built with React and microservices backend
+- <a href="https://github.com/jkalandarov/microservices-ticket-app">Ticket App</a> - A ticket sales app built with React and microservices backend
 - <a href="https://github.com/jkalandarov/BlackJackGame">Black Jack Game</a> - A Vanilla Javascript game
 - <a href="https://quiet-gorge-87066.herokuapp.com/">QR Code Generator</a> - A simple yet powerful QR Code Generator app
+- <a href="https://github.com/jkalandarov/google-keep-clone">Google Keep clone</a> - An app to keep ideas organized
 
 <strong>Project I've contributed to:</strong>
 - <a href="https://smartinvest.uz">www.smartinvest.uz</a> - A catalog website for a textile company. Developed backend.
