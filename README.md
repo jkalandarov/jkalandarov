@@ -1,8 +1,8 @@
-# Jasurbek Kalandarov's long journey
+# Jasurbek Kalandarov's journey on dev road since 2017
 
 Greetings visitor!
 
-I am 33 years young a Software Test Automation Engineer from Uzbekistan. In addition to my birth country, Uzbekistan, I also represent the Planet Earth and Milky Way Galaxy.
+I am a Software Engineer from Uzbekistan.
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
@@ -17,9 +17,9 @@ I am 33 years young a Software Test Automation Engineer from Uzbekistan. In addi
 <strong>Familiar with:</strong>
 - React.js
 
-<strong>Enthusiastic about:</strong>
+<strong>Passionate about:</strong>
 - Cloud technologies
-- Mobile Apps
+- Mobile App development
 - Automation
 - Clean Code and Clean Design
 
