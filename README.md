@@ -2,7 +2,7 @@
 
 Greetings visitor!
 
-I am a Software Engineer from Uzbekistan.
+I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thinking more about how app behaves rather than how it looks. Therefore, I prefer BDD/TDD approach.
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
@@ -13,6 +13,7 @@ I am a Software Engineer from Uzbekistan.
 - Git, GitHub, GitLab
 - HTML, CSS, jQuery, EJS
 - TypeScript
+- Agile team (remotely at any timezone)
 
 <strong>Familiar with:</strong>
 - React.js
@@ -41,7 +42,7 @@ I am a Software Engineer from Uzbekistan.
 - <a href="https://smartinvest.uz">www.smartinvest.uz</a> - A catalog website for a textile company. Developed backend.
 - Test Automation Framework for <a href="https://bc.group/">BC Group</a> - Both e2e and integration testing with Playwright and TypeScript.
 - Test Automation Framework for <a href="https://www.coxautoinc.com/">Cox Automotive Inc.</a> - Both e2e and integration testing with WebdriverIO and TypeScript.
-- Test Automation Framework for <a href="https://www.epam.com/">Epam Systems's Internal Staffing project.</a> - Automated E2E testing with WebdriverIO and JavaScript.
+- Test Automation Framework for <a href="https://www.epam.com/">Epam Systems</a>'s Internal Staffing project - Automated E2E testing with WebdriverIO and JavaScript.
 
 If you want to talk about programming, or offer jobs in your projects you can contact me.
 
