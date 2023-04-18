@@ -44,6 +44,9 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 - Test Automation Framework for <a href="https://www.coxautoinc.com/">Cox Automotive Inc.</a> - Both e2e and integration testing with WebdriverIO and TypeScript.
 - Test Automation Framework for <a href="https://www.epam.com/">Epam Systems</a>'s Internal Staffing project - Automated E2E testing with WebdriverIO and JavaScript.
 
+## My badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a15023ef-768c-4088-81a3-ce2eeb8b2fcd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 If you want to talk about programming, or offer jobs in your projects you can contact me.
 
 My contacts:
