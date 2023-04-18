@@ -45,7 +45,9 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 - Test Automation Framework for <a href="https://www.epam.com/">Epam Systems</a>'s Internal Staffing project - Automated E2E testing with WebdriverIO and JavaScript.
 
 ## My badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a15023ef-768c-4088-81a3-ce2eeb8b2fcd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/62233209/232686321-0b06a604-75c0-4ac5-8e1c-f7bd72b2b60e.png)
+![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/62233209/232686468-2ece738e-f82a-4fff-82b1-2e07d1b54858.png)
+
 
 If you want to talk about programming, or offer jobs in your projects you can contact me.
 
