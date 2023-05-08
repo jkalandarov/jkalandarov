@@ -45,7 +45,7 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 - Test Automation Framework for <a href="https://www.epam.com/">Epam Systems</a>'s Internal Staffing project - Automated E2E testing with WebdriverIO and JavaScript.
 
 ## My badges | <a href="https://www.credly.com/users/jasurbek-kalandarov.741a6bd0">My Credly Profile</a>
-<a href="https://www.credly.com/badges/8072a618-e8cf-41af-978b-36072372de19/public_url" target="_blank">![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/62233209/236813814-81102b90-cc98-4e1d-8f8c-d70804fac2a7.png)
+<a href="https://www.credly.com/badges/8072a618-e8cf-41af-978b-36072372de19/public_url" target="_blank">![aws-certified-cloud-practitioner (2)](https://user-images.githubusercontent.com/62233209/236814033-c4f3aa81-6c11-4a88-b670-fc7014bc9644.png)
 </a>
 <a href="https://www.credly.com/badges/faf352bf-7613-4ba6-8ed7-5a2214086369/public_url" target="_blank">![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/62233209/232686321-0b06a604-75c0-4ac5-8e1c-f7bd72b2b60e.png)</a>
 <a href="https://www.credly.com/badges/a15023ef-768c-4088-81a3-ce2eeb8b2fcd/public_url" target="_blank">![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/62233209/232686468-2ece738e-f82a-4fff-82b1-2e07d1b54858.png)</a>
