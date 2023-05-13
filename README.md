@@ -6,8 +6,8 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
-- Express
-- MySQL with knex.js and Objection.js
+- Express.js
+- MySQL, PostGres, MongoDB
 - Playwright, WebdriverIO, Selenium Webdriver, Mocha, Jasmine, Jest
 - JWT, Passport.js
 - Git, GitHub, GitLab
@@ -22,7 +22,7 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 - Cloud technologies
 - Mobile App development
 - Automation
-- Clean Code and Clean Design
+- Clean Code, Clean Design, Clean Architecture
 
 <strong>Currently learning and practicing:</strong>
 - React.js
