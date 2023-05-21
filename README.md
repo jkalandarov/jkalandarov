@@ -54,6 +54,6 @@ If you want to talk about programming, or offer jobs in your projects you can co
 My contacts:
 - Email: jkalandarov@gmail.com
 - Mob: +998 99 961 9675
-- Telegram: @jkalandarov
+- Telegram: <a href="https://t.me/jkalandarov" target="_blank">@jkalandarov</a>
 
 Looking forward to meeting you!
