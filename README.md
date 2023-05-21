@@ -1,8 +1,8 @@
 # Jasurbek Kalandarov's journey on dev road since 2017
 
 Greetings visitor!
-
-I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thinking more about how app behaves rather than how it looks. Therefore, I prefer BDD/TDD approach.
+My pronouns: Software Engineer / QA Automation Engineer / AWS Certified Cloud Practitioner
+Location: Uzbekistan, GMT+05:00
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
@@ -11,12 +11,9 @@ I am a Software Engineer || Test Automation Engineer from Uzbekistan. I like thi
 - Playwright, WebdriverIO, Selenium Webdriver, Mocha, Jasmine, Jest
 - JWT, Passport.js
 - Git, GitHub, GitLab
-- HTML, CSS, jQuery, EJS
+- HTML, CSS, jQuery, EJS, React.js
 - TypeScript
 - Agile team (remotely at any timezone)
-
-<strong>Familiar with:</strong>
-- React.js
 
 <strong>Passionate about:</strong>
 - Cloud technologies
