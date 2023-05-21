@@ -1,7 +1,8 @@
 # Jasurbek Kalandarov's journey on dev road since 2017
 
 Greetings visitor!
-My pronouns: Software Engineer / QA Automation Engineer / AWS Certified Cloud Practitioner
+
+My pronouns: He / Him / Software Engineer / QA Automation Engineer / AWS Certified Cloud Practitioner<br>
 Location: Uzbekistan, GMT+05:00
 
 <strong>I'm comfortable working with:</strong>
