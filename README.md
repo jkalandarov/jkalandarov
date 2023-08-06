@@ -47,7 +47,7 @@ Location: Uzbekistan, GMT+05:00
 </a>
 <a href="https://www.credly.com/badges/faf352bf-7613-4ba6-8ed7-5a2214086369/public_url" target="_blank">![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/62233209/232686321-0b06a604-75c0-4ac5-8e1c-f7bd72b2b60e.png)</a>
 <a href="https://www.credly.com/badges/a15023ef-768c-4088-81a3-ce2eeb8b2fcd/public_url" target="_blank">![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/62233209/232686468-2ece738e-f82a-4fff-82b1-2e07d1b54858.png)</a>
-<a href="https://www.credly.com/badges/dac921b0-bcce-44a9-954a-d27f2785f622/public_url" target="_blank">![aws-cloud-quest-serverless-developer](https://github.com/jkalandarov/jkalandarov/assets/62233209/8ce7f33c-535b-426d-86f3-2494bb0e0328)
+<a href="https://www.credly.com/badges/dac921b0-bcce-44a9-954a-d27f2785f622/public_url" target="_blank">![aws-cloud-quest-serverless-developer (1)](https://github.com/jkalandarov/jkalandarov/assets/62233209/82975a27-20b9-4bf0-a2db-7e7d5632696f)
 </a>
 
 
