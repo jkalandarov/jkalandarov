@@ -24,7 +24,7 @@ Location: Uzbekistan, GMT+05:00
 
 <strong>Currently learning and practicing:</strong>
 - React.js
-- CI/CD, AWS
+- <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">AWS Certified Developer - Associate</a>
 
 <strong>Currently reading/learning:</strong>
 - Clean Code in Javascript: Develop reliable, maintainable and robust Javascript by James Padolsey
