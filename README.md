@@ -47,6 +47,7 @@ Location: Uzbekistan, GMT+05:00
 </a>
 <a href="https://www.credly.com/badges/faf352bf-7613-4ba6-8ed7-5a2214086369/public_url" target="_blank">![aws-partner-accreditation-technical](https://user-images.githubusercontent.com/62233209/232686321-0b06a604-75c0-4ac5-8e1c-f7bd72b2b60e.png)</a>
 <a href="https://www.credly.com/badges/a15023ef-768c-4088-81a3-ce2eeb8b2fcd/public_url" target="_blank">![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/62233209/232686468-2ece738e-f82a-4fff-82b1-2e07d1b54858.png)</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dac921b0-bcce-44a9-954a-d27f2785f622" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 If you want to talk about programming, or offer jobs in your projects you can contact me.
