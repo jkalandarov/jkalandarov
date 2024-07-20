@@ -7,23 +7,23 @@ Location: Uzbekistan, GMT+05:00
 
 <strong>I'm comfortable working with:</strong>
 - NodeJs
-- Express.js
-- MySQL, PostGres, MongoDB
+- Express.js, Nest.js
+- MySQL, Postgres, MongoDB, DynamoDB
 - Playwright, WebdriverIO, Selenium Webdriver, Mocha, Jasmine, Jest
 - JWT, Passport.js
 - Git, GitHub, GitLab
-- HTML, CSS, jQuery, EJS, React.js
+- HTML, CSS, jQuery, EJS
 - TypeScript
 - Agile team (remotely at any timezone)
 
 <strong>Passionate about:</strong>
 - Cloud technologies
-- Mobile App development
+- Mobile App Development
 - Automation
 - Clean Code, Clean Design, Clean Architecture
 
 <strong>Currently learning and practicing:</strong>
-- React.js
+- Flutter
 - <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">AWS Certified Developer - Associate</a>
 
 <strong>Currently reading/learning:</strong>
